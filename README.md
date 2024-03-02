@@ -71,6 +71,11 @@ The Wild Oasis is a feature-rich hotel booking app offering personalized cabin c
 - **Recharts**: Charting library for data visualization.
 - **Styled Components**: Styling React components.
 - **Vite**: Frontend build tool for fast development.
+- **React Icons**: Icon library for easy integration of icons.
+- **Date-fns**: Library for date formatting and manipulation.
+- **React Hook Form**: Library for form validation and management.
+- **React Hot Toast**: Notification library for displaying toast messages.
+
 
 ## 🚀 Getting Started
 
